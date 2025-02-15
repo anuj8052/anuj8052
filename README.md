@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Anuj Kumar<br>Working as Data Analyst at Chordify Inc.<br>Graduated from IIT Kharagpur, West Bengal<br>I am Interested in Machine learning, Deep Learning, Data Science, Generative AI, LLM's, and web development.<br>Previously Worked at IIM Mumbai, Maharashtra, and also as a Freelancer
+Hi, I am Anuj Kumar<br>Working as Data Analyst at Chordify Inc.<br>Graduated from IIT Kharagpur, West Bengal<br>I am Interested in Machine learning, Deep Learning, Data Science, Generative AI, LLM's and Data Analysis.<br>Previously Worked at IIM Mumbai, Maharashtra, and also as a Freelancer
 
 
 ## 🌐 Socials:
